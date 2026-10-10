@@ -34,7 +34,7 @@ body {
 
 .plans {
   display: flex;
-flex-direction: row;
+  flex-direction: row;
   justify-content: center;
   align-items: stretch;
   gap: 24px;
@@ -52,7 +52,7 @@ flex-direction: row;
 }
 
 .plan--featured {
-  border: 2px solid transparent;
+  border: 2px solid #2563eb;
   box-shadow: 0 10px 30px rgba(37, 99, 235, 0.15);
 }
 
